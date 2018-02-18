@@ -49,6 +49,7 @@
     "@servicestack/client": "^1.0.0"
   },
   "devDependencies": {
+    "@servicestack/cli": "^1.0.0",
     "@types/classnames": "^2.2.3",
     "@types/jest": "^21.1.5",
     "@types/node": "^8.0.47",
@@ -70,12 +71,11 @@
     "identity-obj-proxy": "^3.0.0",
     "image-webpack-loader": "^3.4.2",
     "jest": "^21.2.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.7.2",
     "postcss-loader": "^2.0.8",
     "precss": "^2.0.0",
     "react-test-renderer": "^16.0.0",
     "sass-loader": "^6.0.6",
-    "@servicestack/cli": "^1.0.0",
     "source-map-loader": "^0.2.3",
     "style-loader": "^0.19.0",
     "ts-jest": "^21.1.4",

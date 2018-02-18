@@ -25,7 +25,7 @@ namespace SSRQ
                 DebugMode = AppSettings.Get("DebugMode", false),
                 WebHostPhysicalPath = MapProjectPath("~/wwwroot"),
                 AddRedirectParamsToQueryString = true,
-                UseCamelCase = true,
+                UseCamelCase = true
             });
 
             Plugins.Add(new TemplatePagesFeature());

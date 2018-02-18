@@ -117,6 +117,7 @@
     <Content Include="src\test.shim.js" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="src\clients\Clients.tsx" />
     <TypeScriptCompile Include="src\home\Hello.test.tsx" />
     <TypeScriptCompile Include="src\home\Hello.tsx" />
     <TypeScriptCompile Include="src\home\Home.tsx" />

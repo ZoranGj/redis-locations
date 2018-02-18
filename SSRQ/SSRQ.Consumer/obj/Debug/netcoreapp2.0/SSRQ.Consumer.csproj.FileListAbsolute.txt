@@ -1,0 +1,11 @@
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\bin\Debug\netcoreapp2.0\SSRQ.Consumer.deps.json
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\bin\Debug\netcoreapp2.0\SSRQ.Consumer.runtimeconfig.json
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\bin\Debug\netcoreapp2.0\SSRQ.Consumer.runtimeconfig.dev.json
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\bin\Debug\netcoreapp2.0\SSRQ.Consumer.dll
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\bin\Debug\netcoreapp2.0\SSRQ.Consumer.pdb
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\obj\Debug\netcoreapp2.0\SSRQ.Consumer.csprojResolveAssemblyReference.cache
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\obj\Debug\netcoreapp2.0\SSRQ.Consumer.csproj.CoreCompileInputs.cache
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\obj\Debug\netcoreapp2.0\SSRQ.Consumer.AssemblyInfoInputs.cache
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\obj\Debug\netcoreapp2.0\SSRQ.Consumer.AssemblyInfo.cs
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\obj\Debug\netcoreapp2.0\SSRQ.Consumer.dll
+C:\proj\servicestack\redis-locations\SSRQ\SSRQ.Consumer\obj\Debug\netcoreapp2.0\SSRQ.Consumer.pdb

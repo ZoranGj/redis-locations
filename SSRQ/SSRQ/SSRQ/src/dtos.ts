@@ -39,3 +39,17 @@ export class Hello implements IReturn<HelloResponse>
     createResponse() { return new HelloResponse(); }
     getTypeName() { return "Hello"; }
 }
+
+export class ClientsResponse
+{
+    response: string;
+    clients: Array<object>;
+}
+
+export class Client implements IReturn<ClientsResponse>
+{
+    name: string;
+    id: number;
+    createResponse() { return new ClientsResponse(); }
+    getTypeName() { return "Client"; }
+}

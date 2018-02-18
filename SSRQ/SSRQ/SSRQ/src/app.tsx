@@ -12,6 +12,7 @@ import { NavItem } from './shared';
 import Home from './home/Home';
 import View1 from './view1/View';
 import View2 from './view2/View';
+import Clients from './Clients/Clients';
 
 class App extends React.Component<any, any> {
     constructor(props) {
@@ -25,11 +26,12 @@ class App extends React.Component<any, any> {
                     <div className="container">
                         <Link to="/" className="navbar-brand"> 
                             <i className="fa fa-code" aria-hidden="true"></i>
-                            <span style={{ paddingLeft: 5 }}>SSRQ</span>
+                            <span style={{ paddingLeft: 5 }}>SSRQ ZOKI</span>
                         </Link>
                         <div className="navbar-collapse">
                             <ul className="navbar-nav mr-auto">
                                 <NavItem to="/">Home</NavItem>
+                                <NavItem to="/client">Clients</NavItem>
                                 <NavItem to="/view1">View 1</NavItem>
                                 <NavItem to="/view2">View 2</NavItem>
                             </ul>
@@ -41,6 +43,7 @@ class App extends React.Component<any, any> {
                     <div className="row" style={{ margin: "10px 0" }}>
                         <div id="content">
                             <Route exact path="/" render={props => <Home name="React" />} activeClassName="active" />
+                            <Route path="/client" component={Clients} activeClassName="active" />
                             <Route path="/view1" component={View1} activeClassName="active" />
                             <Route path="/view2" component={View2} activeClassName="active" />
                         </div>

@@ -16,7 +16,7 @@ export class NavItem extends React.Component<any,any> {
 
     return (
       <li role="presentation" className={cls('nav-item', { active })}>
-        <Link to={to} className="nav-link">{children}</Link>
+        <Link to={to} className="nav-link">{children}</Link> 
       </li>
     )
   }

@@ -28,7 +28,7 @@ export default class HelloComponent extends React.Component<any, any> {
 
     render() {
         return (
-            <div className="form-group">
+            <div className="form-group">daddd
                 <input className="form-control" type="text" placeholder="Your name"
                     defaultValue={this.props.name}
                     onChange={e => this.nameChanged((e.target as HTMLInputElement).value)} />

@@ -3,3 +3,17 @@
 ################################################################################
 
 /SSRQ/packages
+/SSRQ/.vs
+/SSRQ/SSRQ/SSRQ/bin
+/SSRQ/SSRQ/SSRQ/node_modules
+/SSRQ/SSRQ/SSRQ/obj/Debug
+/SSRQ/SSRQ/SSRQ/obj/Release
+/SSRQ/SSRQ/SSRQ.ServiceInterface/bin
+/SSRQ/SSRQ/SSRQ.ServiceInterface/obj
+/SSRQ/SSRQ/SSRQ.ServiceModel/bin
+/SSRQ/SSRQ/SSRQ.ServiceModel/obj
+/SSRQ/SSRQ/SSRQ.ServiceModel/obj/Debug
+/SSRQ/SSRQ/SSRQ.Consumer/obj/Debug
+/SSRQ/SSRQ/SSRQ.Consumer/bin
+/SSRQ/SSRQ/SSRQ.Tests/obj/Debug
+/SSRQ/SSRQ/SSRQ.Tests/bin

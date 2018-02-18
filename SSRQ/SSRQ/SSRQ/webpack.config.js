@@ -86,10 +86,10 @@ module.exports = (env) => {
                         test: /\.css$/,
                         use: ['style-loader', 'css-loader', postcssLoader]
                     },
-                    {
-                        test: /\.(sass|scss)$/,
-                        use: ['style-loader', 'css-loader', postcssLoader, 'sass-loader']
-                    },
+                    //{
+                    //    test: /\.(sass|scss)$/,
+                    //    use: ['style-loader', 'css-loader', postcssLoader, 'sass-loader']
+                    //},
                 ]),
                 ...when(isProd, [
                     {
