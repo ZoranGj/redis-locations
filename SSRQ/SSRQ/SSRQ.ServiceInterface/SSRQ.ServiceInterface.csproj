@@ -95,6 +95,8 @@
   <ItemGroup>
     <Compile Include="ClientsService.cs" />
     <Compile Include="DTO\Clients.cs" />
+    <Compile Include="DTO\Locations.cs" />
+    <Compile Include="LocationsService.cs" />
     <Compile Include="MyServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Routing\FallbackForClientRoutes.cs" />

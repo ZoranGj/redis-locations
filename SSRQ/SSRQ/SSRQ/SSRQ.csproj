@@ -121,6 +121,7 @@
     <TypeScriptCompile Include="src\home\Hello.test.tsx" />
     <TypeScriptCompile Include="src\home\Hello.tsx" />
     <TypeScriptCompile Include="src\home\Home.tsx" />
+    <TypeScriptCompile Include="src\locations\Locations.tsx" />
     <TypeScriptCompile Include="src\view1\View.tsx" />
     <TypeScriptCompile Include="src\view2\View.tsx" />
     <TypeScriptCompile Include="src\app.tsx" />

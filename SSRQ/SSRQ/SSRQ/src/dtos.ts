@@ -53,3 +53,17 @@ export class Client implements IReturn<ClientsResponse>
     createResponse() { return new ClientsResponse(); }
     getTypeName() { return "Client"; }
 }
+
+export class LocationsResponse {
+    cacheUpdated: any;
+    locations: Array<object>;
+}
+
+export class Location implements IReturn<LocationsResponse>
+{
+    longitude: number;
+    latitude: number;
+    name: string;
+    createResponse() { return new LocationsResponse(); }
+    getTypeName() { return "Location"; }
+}
